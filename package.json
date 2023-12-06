@@ -1,0 +1,24 @@
+{
+  "name": "advent-of-code-2023",
+  "version": "1.0.0",
+  "description": "Challenges from Advent of Code 2023",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha test --recursive --extension test.js ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfcorugedo/advent-of-code-2023.git"
+  },
+  "author": "Juan Fernandez-Corugedo Igual",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jfcorugedo/advent-of-code-2023/issues"
+  },
+  "homepage": "https://github.com/jfcorugedo/advent-of-code-2023#readme",
+  "devDependencies": {
+    "chai": "^4.3.10",
+    "mocha": "^10.2.0"
+  }
+}
