@@ -2,7 +2,7 @@ import {part1, part2} from "./challenge.js";
 import {expect} from 'chai';
 import fs from 'fs/promises';
 
-describe('day2', () => {
+describe('day3', () => {
 
     context('part1', () => {
         it('example 1', async () => {
